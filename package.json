@@ -21,7 +21,7 @@
     "express": "^4.13.3",
     "express-session": "^1.15.6",
     "http-auth": "^3.2.3",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "node-fetch": "^2.3.0",
     "query-string": "^6.5.0",
     "validator": "^11.0.0"
